@@ -1,0 +1,21 @@
+current directory: /Users/local-kieu/rails_projects/exercise1/exercise1/vendor/bundle/gems/puma-3.11.0/ext/puma_http11
+/Users/local-kieu/.rvm/rubies/ruby-2.4.2/bin/ruby -r ./siteconf20171220-2079-8m8af8.rb extconf.rb
+checking for BIO_read() in -lcrypto... yes
+checking for SSL_CTX_new() in -lssl... yes
+checking for openssl/bio.h... yes
+creating Makefile
+
+current directory: /Users/local-kieu/rails_projects/exercise1/exercise1/vendor/bundle/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR=" clean
+
+current directory: /Users/local-kieu/rails_projects/exercise1/exercise1/vendor/bundle/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR="
+compiling http11_parser.c
+compiling io_buffer.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.bundle
+
+current directory: /Users/local-kieu/rails_projects/exercise1/exercise1/vendor/bundle/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20171220-2079-1nj65wh/puma

@@ -1,0 +1,15 @@
+current directory: /Users/local-kieu/rails_projects/exercise1/exercise1/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/local-kieu/.rvm/rubies/ruby-2.4.2/bin/ruby -r ./siteconf20171220-2079-ob082m.rb extconf.rb
+creating Makefile
+
+current directory: /Users/local-kieu/rails_projects/exercise1/exercise1/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/local-kieu/rails_projects/exercise1/exercise1/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/local-kieu/rails_projects/exercise1/exercise1/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20171220-2079-544eyh
